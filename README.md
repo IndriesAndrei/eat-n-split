@@ -9,4 +9,7 @@ Currently, two official plugins are available:
 
 ![image](https://github.com/IndriesAndrei/eat-n-split/assets/24415865/b0ade8a9-f729-42a3-a181-25cecab8d9e4)
 
+![image](https://github.com/IndriesAndrei/eat-n-split/assets/24415865/4c5d19ae-fa83-41d1-847c-c17fdd256454)
+
+
 
