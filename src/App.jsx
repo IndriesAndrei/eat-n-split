@@ -71,7 +71,7 @@ function App() {
         </div>
 
         {/* only if we have selected a friend show the form */}
-        {selectedFriend && <FormSplitBill selectedFriend={selectedFriend} onSplitBill={handleSplitBill} />}
+        {selectedFriend && <FormSplitBill selectedFriend={selectedFriend} onSplitBill={handleSplitBill} key={selectedFriend.id} />}
       </div>
     </>
   )
